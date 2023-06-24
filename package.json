@@ -1,0 +1,18 @@
+{
+  "name": "expressjs_api_basic_example",
+  "version": "1.0.0",
+  "description": "basic example of an Express.js API",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Express.js",
+    "API"
+  ],
+  "author": "Luke Gaunt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
