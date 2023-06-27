@@ -1,7 +1,7 @@
 {
-  "name": "expressjs_api_basic_example",
+  "name": "ExpressJS-REST-API-basic_example",
   "version": "1.0.0",
-  "description": "basic example of an Express.js API",
+  "description": "basic example of an Express.js REST API",
   "main": "index.js",
   "scripts": {
     "test": "test"
